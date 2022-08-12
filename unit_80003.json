@@ -3,31 +3,6 @@
   "textures": [
     "https://cdn.jsdelivr.net/gh/Eikanya/Live2d-model/VenusScramble/summonunits/summon_unit_80003/live2d/model.2048/texture_00.png"
   ],
-  "motions": {
-    "tap": [
-      {
-        "file": "https://cdn.jsdelivr.net/gh/Eikanya/Live2d-model/VenusScramble/summonunits/summon_unit_80003/live2d/motions/mtn_00.mtn"
-      },
-      {
-        "file": "https://cdn.jsdelivr.net/gh/Eikanya/Live2d-model/VenusScramble/summonunits/summon_unit_80003/live2d/motions/mtn_01.mtn"
-      },
-      {
-        "file": "https://cdn.jsdelivr.net/gh/Eikanya/Live2d-model/VenusScramble/summonunits/summon_unit_80003/live2d/motions/mtn_02.mtn"
-      },
-      {
-        "file": "https://cdn.jsdelivr.net/gh/Eikanya/Live2d-model/VenusScramble/summonunits/summon_unit_80003/live2d/motions/mtn_03.mtn"
-      },
-      {
-        "file": "https://cdn.jsdelivr.net/gh/Eikanya/Live2d-model/VenusScramble/summonunits/summon_unit_80003/live2d/motions/mtn_04.mtn"
-      },
-      {
-        "file": "https://cdn.jsdelivr.net/gh/Eikanya/Live2d-model/VenusScramble/summonunits/summon_unit_80003/live2d/motions/mtn_05.mtn"
-      },
-      {
-        "file": "https://cdn.jsdelivr.net/gh/Eikanya/Live2d-model/VenusScramble/summonunits/summon_unit_80003/live2d/motions/drunk_00.mtn"
-      }
-    ]
-  },
   "expressions": [
     {
       "name": "ex_00.exp.json",
