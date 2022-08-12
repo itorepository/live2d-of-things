@@ -4,7 +4,7 @@
 		"Moc": "https://raw.githubusercontent.com/Live2D/CubismWebSamples/develop/Samples/Resources/Hiyori/Hiyori.moc3",
 		"Textures": [
 			"https://raw.githubusercontent.com/live2dot/live2d-of-things/main/texture-directory/texture_00.png",
-			"https://raw.githubusercontent.com/Live2D/CubismWebSamples/develop/Samples/Resources/Hiyori/Hiyori.2048/texture_01.png"
+			"https://raw.githubusercontent.com/live2dot/live2d-of-things/main/texture-directory/texture_01.png"
 		],
 		"Physics": "https://raw.githubusercontent.com/Live2D/CubismWebSamples/develop/Samples/Resources/Hiyori/Hiyori.physics3.json",
 		"Pose": "https://raw.githubusercontent.com/Live2D/CubismWebSamples/develop/Samples/Resources/Hiyori/Hiyori.pose3.json",
