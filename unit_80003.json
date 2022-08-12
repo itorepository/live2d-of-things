@@ -1,5 +1,5 @@
 {
-  "model": "model.moc",
+  "model": [ "https://github.com/Eikanya/Live2d-model/blob/master/VenusScramble/summonunits/summon_unit_80003/live2d/model.moc" ],
   "textures": [
     "https://cdn.jsdelivr.net/gh/Eikanya/Live2d-model/VenusScramble/summonunits/summon_unit_80003/live2d/model.2048/texture_00.png"
   ],
