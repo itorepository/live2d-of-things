@@ -1,5 +1,5 @@
 {
-  "version": "NSFW 1.0.0",
+  "version": "Sample 1.0.0",
   "model": "https://raw.githubusercontent.com/Live2D-DCG/Live2D-DCG.github.io/master/static/Korean/c267_88/character.dat",
   "textures": [
     "https://raw.githubusercontent.com/live2dot/live2d-of-things/main/c267_88_cleopatra/texture_00.png",
