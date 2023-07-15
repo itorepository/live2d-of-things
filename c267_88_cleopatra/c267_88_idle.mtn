@@ -1,5 +1,5 @@
 # Live2D Animator Motion Data
-$fps=60
+$fps=30
 
 $fadein=1000
 
