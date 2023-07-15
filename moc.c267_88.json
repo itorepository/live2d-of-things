@@ -2,8 +2,8 @@
   "version": "NSFW 1.0.0",
   "model": "https://raw.githubusercontent.com/Live2D-DCG/Live2D-DCG.github.io/master/static/Korean/c267_88/character.dat",
   "textures": [
-    "texture_00.png",
-    "texture_01.png"
+    "https://raw.githubusercontent.com/live2dot/live2d-of-things/main/texture-directory/texture_01A.png",
+    "https://raw.githubusercontent.com/live2dot/live2d-of-things/main/texture-directory/texture_01.png"
   ],
   "motions": {
     "attack": [
