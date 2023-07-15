@@ -8,14 +8,14 @@
   "motions": {
     "attack": [
       {
-        "file": "https://raw.githubusercontent.com/live2dot/live2d-of-things/main/c267_88_cleopatra/c267_88_attack.mtn",
+        "file": "https://raw.githubusercontent.com/Live2D-DCG/Live2D-DCG.github.io/master/static/Korean/c267_88/c267_88_attack.mtn",
         "fade_in": 0,
         "fade_out": 0
       }
     ],
     "hit": [
       {
-        "file": "https://raw.githubusercontent.com/live2dot/live2d-of-things/main/c267_88_cleopatra/c267_88_hit.mtn",
+        "file": "https://raw.githubusercontent.com/Live2D-DCG/Live2D-DCG.github.io/master/static/Korean/c267_88/c267_88_hit.mtn",
         "fade_in": 0,
         "fade_out": 0
       }
