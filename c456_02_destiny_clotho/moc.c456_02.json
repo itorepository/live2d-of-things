@@ -3,22 +3,6 @@
   "model": "https://raw.githubusercontent.com/Live2D-DCG/Live2D-DCG.github.io/master/static/Korean/c456_02/character.dat",
   "textures": [
     "https://raw.githubusercontent.com/live2dot/live2d-of-things/main/c456_02_destiny_clotho/texture_00.png",
-  ],
-  "motions": {
-    "idle": [
-      {
-        "file": "https://raw.githubusercontent.com/live2dot/live2d-of-things/main/c456_02_destiny_clotho/c456_02_idle.mtn",
-        "fade_in": 0,
-        "fade_out": 0
-      }
-    ]
-  }
-}
-{
-  "version": "Sample 1.0.0",
-  "model": "https://raw.githubusercontent.com/Live2D-DCG/Live2D-DCG.github.io/master/static/Korean/c456_02/character.dat",
-  "textures": [
-    "https://raw.githubusercontent.com/live2dot/live2d-of-things/main/c456_02_destiny_clotho/texture_00.png",
     "https://raw.githubusercontent.com/live2dot/live2d-of-things/main/c456_02_destiny_clotho/texture_01.png",
   ],
   "motions": {
