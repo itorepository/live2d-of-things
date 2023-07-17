@@ -7,19 +7,19 @@
   "expressions": [
     {
       "name": "confused",
-      "file": "confused.exp.json"
+      "file": "c453_01_confused.exp.json"
     },
     {
       "name": "idle",
-      "file": "idle.exp.json"
+      "file": "c453_01_idle.exp.json"
     },
     {
       "name": "serious",
-      "file": "serious.exp.json"
+      "file": "c453_01_serious.exp.json"
     },
     {
       "name": "smile",
-      "file": "smile.exp.json"
+      "file": "c453_01_smile.exp.json"
     }
   ],
   "motions": {
