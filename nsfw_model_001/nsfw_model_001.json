@@ -14,6 +14,11 @@
         {
           "File": "https://raw.githubusercontent.com/live2dot/live2d-of-things/main/nsfw_model_001/nsfw_model_001__stand_motion2.json"
         }
+      ],
+      "Idle": [
+        {
+          "File": "https://raw.githubusercontent.com/live2dot/live2d-of-things/main/nsfw_model_001/nsfw_model_001__stand_motion.json"
+        }
       ]
     }
   },
