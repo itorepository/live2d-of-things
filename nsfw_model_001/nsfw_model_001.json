@@ -5,7 +5,7 @@
     "Textures": [
       "https://raw.githubusercontent.com/live2dot/live2d-of-things/main/nsfw_model_001/texture_00.png"
     ],
-    "Physics": "https://raw.githubusercontent.com/live2dot/live2d-of-things/main/nsfw_model_001/nsfw_model_001_physics.json",
+    "Physics": "https://cdn.jsdelivr.net/gh/Eikanya/Live2d-model/%E5%B0%91%E5%A5%B3%E5%92%96%E5%95%A1%E6%9E%AA%20girls%20cafe%20gun/girl08/l2d00.u/l2d00.u.physics3.json",
     "Motions": {
       "": [
         {
