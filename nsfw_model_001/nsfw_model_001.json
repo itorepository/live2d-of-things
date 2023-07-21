@@ -1,18 +1,18 @@
 {
   "Version": 3,
   "FileReferences": {
-    "Moc": "l2d00.u.moc3",
+    "Moc": "https://raw.githubusercontent.com/live2dot/live2d-of-things/main/nsfw_model_001/nsfw_model_001.moc3",
     "Textures": [
-      "textures/texture_00.png"
+      "https://raw.githubusercontent.com/live2dot/live2d-of-things/main/nsfw_model_001/texture_00.png"
     ],
-    "Physics": "l2d00.u.physics3.json",
+    "Physics": "https://raw.githubusercontent.com/live2dot/live2d-of-things/main/nsfw_model_001/nsfw_model_001_physics.json",
     "Motions": {
       "": [
         {
-          "File": "motions/Mgirl08_stand.motion3.json"
+          "File": "https://raw.githubusercontent.com/live2dot/live2d-of-things/main/nsfw_model_001/nsfw_model_001__stand_motion.json"
         },
         {
-          "File": "motions/Mgirl08_stand.motion3.json"
+          "File": "https://raw.githubusercontent.com/live2dot/live2d-of-things/main/nsfw_model_001/nsfw_model_001__stand_motion2.json"
         }
       ]
     }
